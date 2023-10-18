@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="GetOneUser(failed)">
+    <classes>
+      <class name="apipakage.GetOneUser">
+        <methods>
+          <include name="GetOneUser_GetMethod"/>
+          <include name="BeforeMethod"/>
+          <include name="AfterMethod"/>
+        </methods>
+      </class> <!-- apipakage.GetOneUser -->
+    </classes>
+  </test> <!-- GetOneUser(failed) -->
+</suite> <!-- Failed suite [Suite] -->
