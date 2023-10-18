@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="4.724" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="5.727" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Users/deepakraja/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.4.v20220903-1038/jre/lib"/>
-    <property name="sun.java.command" value="/Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/surefire/surefirebooter10161731323462193657.jar /Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/surefire 2023-10-18T07-15-29_682-jvmRun1 surefire12760379480243408428tmp surefire_08759450619968141397tmp"/>
+    <property name="sun.java.command" value="/Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/surefire/surefirebooter9632359182820824300.jar /Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/surefire 2023-10-18T17-36-56_703-jvmRun1 surefire9594935969619915918tmp surefire_018012569904597429828tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/test-classes:/Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/classes:/Users/deepakraja/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/deepakraja/.m2/repository/io/rest-assured/rest-assured/4.3.0/rest-assured-4.3.0.jar:/Users/deepakraja/.m2/repository/org/codehaus/groovy/groovy/3.0.2/groovy-3.0.2.jar:/Users/deepakraja/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.2/groovy-xml-3.0.2.jar:/Users/deepakraja/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/Users/deepakraja/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/Users/deepakraja/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/deepakraja/.m2/repository/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3.jar:/Users/deepakraja/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/deepakraja/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/deepakraja/.m2/repository/io/rest-assured/json-path/4.3.0/json-path-4.3.0.jar:/Users/deepakraja/.m2/repository/org/codehaus/groovy/groovy-json/3.0.2/groovy-json-3.0.2.jar:/Users/deepakraja/.m2/repository/io/rest-assured/rest-assured-common/4.3.0/rest-assured-common-4.3.0.jar:/Users/deepakraja/.m2/repository/io/rest-assured/xml-path/4.3.0/xml-path-4.3.0.jar:/Users/deepakraja/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/deepakraja/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.jar:/Users/deepakraja/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.jar:/Users/deepakraja/.m2/repository/com/sun/xml/bind/jaxb-osgi/2.3.0.1/jaxb-osgi-2.3.0.1.jar:/Users/deepakraja/.m2/repository/org/apache/sling/org.apache.sling.javax.activation/0.1.0/org.apache.sling.javax.activation-0.1.0.jar:/Users/deepakraja/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/deepakraja/.m2/repository/org/testng/testng/7.0.0/testng-7.0.0.jar:/Users/deepakraja/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/deepakraja/.m2/repository/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar:/Users/deepakraja/.m2/repository/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar:/Users/deepakraja/.m2/repository/org/apache/poi/poi/3.17/poi-3.17.jar:/Users/deepakraja/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/deepakraja/.m2/repository/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17.jar:/Users/deepakraja/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar:/Users/deepakraja/.m2/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar:/Users/deepakraja/.m2/repository/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar:/Users/deepakraja/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar:/Users/deepakraja/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/surefire/surefirebooter10161731323462193657.jar"/>
+    <property name="surefire.real.class.path" value="/Users/deepakraja/eclipse-workspace/API_Test_Problem2_Teachademy_CapStoneProject/target/surefire/surefirebooter9632359182820824300.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
@@ -57,13 +57,13 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testNegativeLogin" classname="apipakage.PostReq" time="2.914">
+  <testcase name="testNegativeLogin" classname="apipakage.PostReq" time="3.452">
     <system-out><![CDATA[{
     "error": "user not found"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testPositiveLogin" classname="apipakage.PostReq" time="0.605">
+  <testcase name="testPositiveLogin" classname="apipakage.PostReq" time="0.803">
     <system-out><![CDATA[{
     "token": "QpwL5tke4Pnpja7X4"
 }
