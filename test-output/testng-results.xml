@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-18T07:15:07 IST" name="Default suite" finished-at="2023-10-18T07:15:12 IST" duration-ms="4296">
+  <suite started-at="2023-11-21T12:54:09 IST" name="Default suite" finished-at="2023-11-21T12:54:14 IST" duration-ms="4991">
     <groups>
     </groups>
-    <test started-at="2023-10-18T07:15:07 IST" name="Default test" finished-at="2023-10-18T07:15:12 IST" duration-ms="4296">
+    <test started-at="2023-11-21T12:54:09 IST" name="Default test" finished-at="2023-11-21T12:54:14 IST" duration-ms="4991">
       <class name="apipakage.PostReq">
-        <test-method is-config="true" signature="setup()[pri:0, instance:apipakage.PostReq@d29f28]" started-at="2023-10-18T07:15:07 IST" name="setup" finished-at="2023-10-18T07:15:08 IST" duration-ms="883" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:apipakage.PostReq@27f981c6]" started-at="2023-11-21T12:54:09 IST" name="setup" finished-at="2023-11-21T12:54:09 IST" duration-ms="898" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testNegativeLogin()[pri:0, instance:apipakage.PostReq@d29f28]" started-at="2023-10-18T07:15:08 IST" name="testNegativeLogin" finished-at="2023-10-18T07:15:11 IST" duration-ms="2797" status="PASS">
+        <test-method signature="testNegativeLogin()[pri:0, instance:apipakage.PostReq@27f981c6]" started-at="2023-11-21T12:54:10 IST" name="testNegativeLogin" finished-at="2023-11-21T12:54:13 IST" duration-ms="3138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testNegativeLogin -->
-        <test-method signature="testPositiveLogin()[pri:0, instance:apipakage.PostReq@d29f28]" started-at="2023-10-18T07:15:11 IST" name="testPositiveLogin" finished-at="2023-10-18T07:15:12 IST" duration-ms="579" status="PASS">
+        <test-method signature="testPositiveLogin()[pri:0, instance:apipakage.PostReq@27f981c6]" started-at="2023-11-21T12:54:13 IST" name="testPositiveLogin" finished-at="2023-11-21T12:54:14 IST" duration-ms="895" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPositiveLogin -->
